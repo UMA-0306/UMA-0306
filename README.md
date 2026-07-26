@@ -6,9 +6,6 @@
 Passionate about building scalable web applications and solving real-world problems through modern technologies.
 </p>
 
-<p align="center">
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=700&lines=MERN+Stack+Developer;Full+Stack+Web+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies" />
-</p>
 
 ---
 
@@ -62,16 +59,6 @@ Passionate about building scalable web applications and solving real-world probl
 ---
 
 ## 🚀 Featured Projects
-
-### 🤖 ScriptoraAI
-
-AI-powered collaborative writing platform that assists users with story planning, content generation, and editing using the Gemini API.
-
-**Tech Stack**
-
-`Next.js` • `NestJS` • `PostgreSQL` • `FastAPI` • `Gemini API`
-
----
 
 ### 🚨 ResQLink
 
