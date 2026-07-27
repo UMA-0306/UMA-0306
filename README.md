@@ -1,25 +1,24 @@
-<h1 align="center">Hi 👋, I'm Uma Durgeswari</h1>
+<h1 align="center">Hi, I'm Uma Durgeswari</h1>
 
-<h3 align="center">MERN Stack Developer </h3>
+<h3 align="center">MERN Stack Developer</h3>
 
 <p align="center">
 Passionate about building scalable web applications and solving real-world problems through modern technologies.
 </p>
 
+---
+
+## About Me
+
+- Computer Science & Engineering Student
+- Passionate about Full Stack Web Development
+- Experienced in building responsive and scalable web applications
+- Currently exploring AI-powered web applications and modern development practices
+- Always eager to learn, collaborate, and solve real-world problems
 
 ---
 
-## 👩‍💻 About Me
-
-- 🎓 Computer Science & Engineering Student
-- 💻 Passionate about Full Stack Web Development
-- 🚀 Experienced in building responsive and scalable web applications
-- 🌱 Currently exploring AI-powered web applications and modern development practices
-- 🤝 Always eager to learn, collaborate, and solve real-world problems
-
----
-
-## 🛠️ Tech Stack
+## Tech Stack
 
 ### Languages
 
@@ -58,18 +57,18 @@ Passionate about building scalable web applications and solving real-world probl
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🚨 ResQLink
+### ResQLink
 
 Emergency response platform enabling users to send SOS alerts, share live location, and communicate instantly during emergencies.
 
 **Key Features**
 
-- 🚨 SOS Alert System
-- 📍 Live Location Tracking
-- ⚡ Real-time Communication using Socket.IO
-- 🔒 Secure Authentication
+- SOS Alert System
+- Live Location Tracking
+- Real-time Communication using Socket.IO
+- Secure Authentication
 
 **Tech Stack**
 
@@ -77,7 +76,7 @@ Emergency response platform enabling users to send SOS alerts, share live locati
 
 ---
 
-### 🤖 ScriptoraAI
+### ScriptoraAI
 
 AI-powered collaborative writing platform that assists users with story planning, content generation, and editing using the Gemini API.
 
@@ -87,23 +86,21 @@ AI-powered collaborative writing platform that assists users with story planning
 
 ---
 
+## Certifications
 
-
-## 📜 Certifications
-
-- ☁️ AWS Academy Cloud Foundations
-- 🍃 MongoDB Basics
-- 🌐 Cisco Networking Basics
-- 🔐 Security Principles (Coursera)
-- 🛡️ Incident Response, BC & DR Concepts (Coursera)
+- AWS Academy Cloud Foundations
+- MongoDB Basics
+- Cisco Networking Basics
+- Security Principles (Coursera)
+- Incident Response, BC & DR Concepts (Coursera)
 
 ---
 
-## 🌐 Connect With Me
+## Connect With Me
 
 <p align="left">
 
-<a href="www.linkedin.com/in/uma-durgeswari-s">
+<a href="https://www.linkedin.com/in/uma-durgeswari-s">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
@@ -115,6 +112,6 @@ AI-powered collaborative writing platform that assists users with story planning
 
 ---
 
-## 💬 Quote
+## Quote
 
 > **Small Steps. Big Dreams.**
