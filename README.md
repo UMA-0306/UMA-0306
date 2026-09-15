@@ -1,28 +1,28 @@
-<h1 align="center">Hi, I'm Uma Durgeswari</h1>
+<h1 align="center">Hi, I'm Uma Durgeswari 👋</h1>
 
-<h3 align="center">MERN Stack Developer</h3>
+<h3 align="center">Computer Science & Engineering Student | Software Developer</h3>
 
 <p align="center">
-Passionate about building scalable web applications and solving real-world problems through modern technologies.
+Passionate about software development, problem-solving, and building practical applications that solve real-world problems.
 </p>
 
 ---
 
 ## About Me
 
-- Computer Science & Engineering Student
-- Passionate about Full Stack Web Development
-- Experienced in building responsive and scalable web applications
-- Currently exploring AI-powered web applications and modern development practices
-- Always eager to learn, collaborate, and solve real-world problems
+- 🎓 Computer Science & Engineering student
+- 💻 Interested in software development and full-stack web development
+- 🚀 Experienced in building practical applications using modern web technologies
+- 🧩 Passionate about problem-solving and learning new technologies
+- 🤝 Enjoy collaborating with teammates and working on real-world projects
+- 🌱 Currently improving my skills in software development, backend technologies, and databases
 
 ---
 
-## Tech Stack
+## Technical Skills
 
-### Languages
+### Programming Languages
 
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-20232A?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Python](https://img.shields.io/badge/Python-20232A?style=for-the-badge&logo=python&logoColor=3776AB)
 
@@ -34,65 +34,91 @@ Passionate about building scalable web applications and solving real-world probl
 
 ### Backend
 
-![Node.js](https://img.shields.io/badge/Node.js-20232A?style=for-the-badge&logo=node.js&logoColor=339933)
-![Express.js](https://img.shields.io/badge/Express.js-20232A?style=for-the-badge&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-20232A?style=for-the-badge&logo=springboot&logoColor=6DB33F)
 
 ### Database
 
-![MongoDB](https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=47A248)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-20232A?style=for-the-badge&logo=postgresql&logoColor=336791)
 
 ### Tools
 
 ![Git](https://img.shields.io/badge/Git-20232A?style=for-the-badge&logo=git&logoColor=F05032)
 ![GitHub](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-20232A?style=for-the-badge&logo=visual-studio-code&logoColor=007ACC)
 ![Postman](https://img.shields.io/badge/Postman-20232A?style=for-the-badge&logo=postman&logoColor=FF6C37)
 
-### AI & ML
+---
 
-![Gemini](https://img.shields.io/badge/Gemini_API-20232A?style=for-the-badge&logo=google&logoColor=4285F4)
-![RAG](https://img.shields.io/badge/RAG-20232A?style=for-the-badge)
-![Prompt Engineering](https://img.shields.io/badge/Prompt_Engineering-20232A?style=for-the-badge)
+## Internship Experience
+
+### Rocket India — Graduate Intern
+
+During my internship, I gained practical experience in software development and worked with technologies including React.js, Spring Boot, PostgreSQL, and API integration.
+
+### Key Learning & Contributions
+
+- Developed practical understanding of React.js and Spring Boot
+- Worked with PostgreSQL for application data management
+- Gained experience integrating frontend applications with backend APIs
+- Learned to approach problems systematically and discuss possible solutions with teammates
+- Contributed to team-based software development
+- Improved my understanding of real-world application development workflows
 
 ---
 
-## Featured Projects
+## Featured Project
 
-### ResQLink
+### 🚨 ResQLink
 
-Emergency response platform enabling users to send SOS alerts, share live location, and communicate instantly during emergencies.
+**ResQLink** is an emergency response platform designed to help users send SOS alerts and share their location during emergency situations.
 
-**Key Features**
+### Key Features
 
-- SOS Alert System
-- Live Location Tracking
-- Real-time Communication using Socket.IO
-- Secure Authentication
+- 🚨 SOS Alert System
+- 📍 Live Location Sharing
+- 👤 User Authentication
+- 📱 Responsive User Interface
+- 🏥 Emergency-related operations and information sharing
 
-**Tech Stack**
+### Tech Stack
 
-`MongoDB` • `Express.js` • `React.js` • `Node.js` • `Socket.IO`
+`MongoDB` • `Express.js` • `React.js` • `Node.js`
+
+### Project Highlights
+
+- Developed an emergency response platform focused on quick SOS communication
+- Built the frontend using React.js with a simple and responsive interface
+- Designed REST APIs for user-related and emergency operations
+- Implemented MongoDB for storing user and emergency-related data
 
 ---
 
-### ScriptoraAI
+## Education
 
-AI-powered collaborative writing platform that assists users with story planning, content generation, and editing using the Gemini API.
+### Bachelor of Engineering — Computer Science and Engineering
 
-**Tech Stack**
+**Rathinam Technical Campus**
 
-`Next.js` • `NestJS` • `PostgreSQL` • `FastAPI` • `Gemini API`
+📅 2023 – Present
+
+**CGPA:** 8.81
 
 ---
 
 ## Certifications
 
-- AWS Academy Cloud Foundations
-- MongoDB Basics
-- Cisco Networking Basics
-- Security Principles (Coursera)
-- Incident Response, BC & DR Concepts (Coursera)
+- ☁️ AWS Academy Cloud Foundations
+- 🍃 MongoDB Basics for Students — MongoDB
+- 🌐 Networking Basics — Cisco Networking Academy
+- 🔐 Security Principles — Coursera
+- 🛡️ Incident Response, Business Continuity & Disaster Recovery Concepts — Coursera
+
+---
+
+## Achievements
+
+- 🧠 Solved **250+ problems on LeetCode**, strengthening problem-solving and algorithmic skills
+- 🏆 Received **Best Idea Award** in an internal hackathon for proposing an innovative solution
+- 🥇 Participated in **inter-college technical symposiums** and secured **1st Prize in Coding Challenges**
 
 ---
 
@@ -114,4 +140,4 @@ AI-powered collaborative writing platform that assists users with story planning
 
 ## Quote
 
-> **Small Steps. Big Dreams.**
+> **Small Steps. Big Dreams. 🚀**
